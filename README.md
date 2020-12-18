@@ -2,8 +2,11 @@
 Control Sinamics S120 drive motion using Simatic S7-1500 and TIA Portal software.
 
 In this example, a drive unit is to be assembled for a motor. The following components are required for the drive unit:
+
   1.Control Unit CU 310-2PN
+
   2.Power Module PM 240-2
+
   3.Synchronous Servo Motor of 1FK7 family
   4.Motion-Connect Drive-Cliq Cable
   5.Motion-Connect Power Cable
