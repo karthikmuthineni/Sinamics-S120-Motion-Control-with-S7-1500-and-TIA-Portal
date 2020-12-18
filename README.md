@@ -33,4 +33,4 @@ Control Sinamics S120 drive motion using Simatic S7-1500 and TIA Portal software
   6.The TIA Portal V15.1 software must be installed on your PC.
 
   
-For more information on configuration, refer to https://blog.netpie.io/?p=6791&preview=true
+For more information on configuration, refer to https://blog.netpie.io/archives/6791
