@@ -1,7 +1,7 @@
 # Sinamics-S120-Motion-Control-with-S7-1500-and-TIA-Portal
 Control Sinamics S120 drive motion using Simatic S7-1500 and TIA Portal software.
 
-In this example, a drive unit is to be assembled for a motor. The following components are required for the drive unit:
+# In this example, a drive unit is to be assembled for a motor. The following components are required for the drive unit:
 
   1.Control Unit CU 310-2PN
 
@@ -18,7 +18,7 @@ In this example, a drive unit is to be assembled for a motor. The following comp
   7.Simatic S7-1500
   
 
-The following prerequisites must be fulfilled before you start:
+# The following prerequisites must be fulfilled before you start:
 
   1.The CompactFlash Cards with firmware must be inserted into S7-1500 and CU 310-2PN.
 
